@@ -1,0 +1,6 @@
+.nav-header{
+    height: 10%;
+    width: 100%;
+    border-bottom: 5px solid var(--cor-primaria);
+
+}

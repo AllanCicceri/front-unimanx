@@ -1,0 +1,9 @@
+.home-container{
+    flex: 1;
+    background-color: var(--cor-secundaria);
+    height: 90%;
+    width: 80%;
+    margin-left: 50px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 27px -4px rgba(0,0,0,0.66);
+}
