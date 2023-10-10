@@ -17,6 +17,8 @@ code {
 :root{
   --cor-primaria:#E0EBF5;
   --cor-secundaria: #F5F5F5;
+  --cor-destaque: #FFD447;
+  --cor-destaque-borda: #CC9C00;
   --font-color: #A3A3A3;
   --hover-color: #EBEBEB;
 }

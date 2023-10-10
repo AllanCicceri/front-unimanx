@@ -4,7 +4,7 @@ import NavProjetos from './NavProjetos'
 
 export default function NavContainer(){
     return <div className='nav-container'>
-        <NavTitle/>
+        {/* <NavTitle/> */}
         <NavProjetos/>
     </div>
 }

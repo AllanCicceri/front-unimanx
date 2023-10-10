@@ -1,3 +1,25 @@
 .nav-title{
     height: 20px;
 }
+
+.nav-title-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-add-project{
+    width: 50px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: var(--cor-destaque);
+    border: 1px solid var(--cor-destaque-borda);
+    box-shadow: 3px 4px 12px -6px rgba(0,0,0,0.26);
+    color: white;
+    font-weight: bold;
+}
+
+.btn-add-project:hover{
+    scale: 110%;
+    cursor: pointer;
+}
